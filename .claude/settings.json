@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(pip list *)",
+      "Bash(/opt/anaconda3/bin/python3 --version)",
+      "Bash(/opt/anaconda3/bin/python3 -c ' *)",
+      "Bash(jupyter kernelspec *)",
+      "Bash(/opt/anaconda3/bin/python3)"
+    ]
+  }
+}
